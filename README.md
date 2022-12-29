@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@advaith-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@advaith-22" height="30" width="40" /></a>
+<a href="https://codepen.io/advaith-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@advaith-22" height="30" width="40" /></a>
 <a href="https://dev.to/@advaiths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@advaiths" height="30" width="40" /></a>
 <a href="https://twitter.com/_advaith_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_advaith_s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/advaith-s-08a812245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="advaith-s-08a812245" height="30" width="40" /></a>
@@ -40,9 +40,9 @@
 <a href="https://www.behance.net/everythincoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="everythincoder" height="30" width="40" /></a>
 <a href="https://hashnode.com/@advaiths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@advaiths" height="30" width="40" /></a>
 <a href="https://medium.com/@advaithdagret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@advaithdagret" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oneadu7567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oneadu7567" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@oneadu7567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oneadu7567" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/oneadu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oneadu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@popular9adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@popular9adu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/popular9adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@popular9adu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/popular9adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="popular9adu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@popular9adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@popular9adu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user_q84ekclrnrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_q84ekclrnrp" height="30" width="40" /></a>
